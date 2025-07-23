@@ -3,8 +3,9 @@ object:- Using a random forest ensemble method to predict creditworthiness of in
 Resources :
 https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data
 
-## hjjj
 
-Live App: [Click here to try the app](https://creditworthinesspredictionproject-a.streamlit.app/)
+
+Live App(link): (https://creditworthinesspredictionproject-a.streamlit.app/)
+
 
 
